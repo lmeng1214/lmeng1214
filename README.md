@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Purdue 🚂 Computer Science Alumni<br>🖥️Software Engineering with a sprinkle of Machine Learning<br>🚀Software Engineer at SpaceX<br>📸Hobbyist Wildlife and Landscape Photographer<br>🥡Loves all things related to food and cooking
+🎓Purdue Computer Science Alumni<br>🖥️Software Engineering with a sprinkle of Machine Learning<br>🚀Software Engineer at SpaceX<br>📸Hobbyist Wildlife and Landscape Photographer<br>🥡Loves all things related to food and cooking
 
 
 ## 🌐 Socials:
